@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Test Category - Category - Yuhuan&#39;s Blog</title>
+        <link>https://yuhuan0207.github.io/categories/test-category/</link>
+        <description>Test Category - Category - Yuhuan&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 31 May 2020 22:20:10 -0700</lastBuildDate><atom:link href="https://yuhuan0207.github.io/categories/test-category/" rel="self" type="application/rss+xml" /><item>
+    <title>New Test Post</title>
+    <link>https://yuhuan0207.github.io/posts/new-test-post/</link>
+    <pubDate>Sun, 31 May 2020 22:20:10 -0700</pubDate>
+    <author>Author</author>
+    <guid>https://yuhuan0207.github.io/posts/new-test-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/test-image/test-image.png" referrerpolicy="no-referrer">
+            </div><p>这里是preview的内容。</p>]]></description>
+</item></channel>
+</rss>

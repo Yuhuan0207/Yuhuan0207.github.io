@@ -3,5 +3,12 @@
         <title>Tags - Tag - Yuhuan&#39;s Blog</title>
         <link>https://yuhuan0207.github.io/tags/</link>
         <description>Tags - Tag - Yuhuan&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://yuhuan0207.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 31 May 2020 22:20:10 -0700</lastBuildDate><atom:link href="https://yuhuan0207.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Test Tag</title>
+    <link>https://yuhuan0207.github.io/tags/test-tag/</link>
+    <pubDate>Sun, 31 May 2020 22:20:10 -0700</pubDate>
+    <author>Author</author>
+    <guid>https://yuhuan0207.github.io/tags/test-tag/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
